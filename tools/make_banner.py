@@ -1,4 +1,4 @@
-"""Banner of the profile README, light and dark (python3 make_banner.py writes assets/banner_{light,dark}.svg from the repository root)."""
+"""Banner of the profile README, light and dark. Run from the repository root: python3 tools/make_banner.py"""
 import random
 
 THEMES = {"light": dict(bg="#f6f8fa", line="#d0d7de", ink="#1f2328", ink2="#59636e", blue="#0969da", soft="#b6d4f7",

@@ -3,7 +3,7 @@
   <img src="assets/banner_light.svg" width="100%" alt="Lijiayu Deng: machine learning for single-cell perturbation biology. The Wen Group, John Curtin School of Medical Research, The Australian National University.">
 </picture>
 
-I am a student in [the Wen Group](https://jcsmr.anu.edu.au/research/groups/wen-group-computational-biology-rnas-and-functional-genomics) at the John Curtin School of Medical Research, The Australian National University, in Canberra.
+I am a Master (Advanced) student in [the Wen Group](https://jcsmr.anu.edu.au/research/groups/wen-group-computational-biology-rnas-and-functional-genomics) at the John Curtin School of Medical Research, The Australian National University, in Canberra.
 
 I work on machine learning for single-cell perturbation screens: predicting how cells respond when a gene is perturbed, and using what is already known about genes to guide which experiments to run.
 
