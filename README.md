@@ -15,7 +15,7 @@ I work on machine learning for single-cell perturbation screens: predicting how 
 
 ### Open work
 
-[**EmbryoTempoFormer**](https://github.com/LijiayuDeng/s-biad531-embryo-tempoformer) is a reproducible pipeline that predicts developmental time from zebrafish time-lapse microscopy and estimates the tempo of each embryo, with data and checkpoints on [Zenodo](https://doi.org/10.5281/zenodo.18318139).
+[**EmbryoTempoFormer**](https://github.com/LijiayuDeng/embryo-tempoformer) is a reproducible pipeline that predicts developmental time from zebrafish time-lapse microscopy and estimates the tempo of each embryo, with data and checkpoints on [Zenodo](https://doi.org/10.5281/zenodo.18318139).
 
 Current research code lives in private repositories and will be opened with the papers.
 
